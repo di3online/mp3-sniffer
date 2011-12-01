@@ -1,0 +1,1 @@
+This tool uses libpcap to sniff mp3 files inside of http traffic.... and it doesnt use libnids which I never got to work properly.
